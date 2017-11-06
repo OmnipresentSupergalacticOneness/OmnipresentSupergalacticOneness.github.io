@@ -11,3 +11,4 @@ google_analytics: UA-86563829-3
 
 sass:
     style: compressed
+theme: jekyll-theme-minimal
