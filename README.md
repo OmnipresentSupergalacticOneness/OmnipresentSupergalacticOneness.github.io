@@ -4,9 +4,6 @@
 
 The theme is a fork of the [minima][1]
 
-![minima theme preview](/screenshot.png)
-
-
 # License
 
 The theme is available as open source under the terms of the [MIT License][2].
