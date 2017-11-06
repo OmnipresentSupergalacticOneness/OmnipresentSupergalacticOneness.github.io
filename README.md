@@ -1,17 +1,16 @@
-# Jekyll Materialize Starter Template v0.1
+# Landing page for Omnipresent Supergalactic Oneness android app
 
-*A Site Starter Materialize Templates.
+[Android Store link][1]
 
-The theme is a fork of the [minima][1]
+Site based on Jekyll Materialize Starter Template v0.1 [minima][2]
 
 # License
 
-The theme is available as open source under the terms of the [MIT License][2].
+The theme is available as open source under the terms of the [MIT License][3].
 
-[Materialize][3] a  modern responsive front-end framework based on Material Design
+[Materialize][4] a  modern responsive front-end framework based on Material Design
 
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+[1]: https://play.google.com/store/apps/details?id=io.csabatech.omnipresent
+[2]: https://github.com/macrod68/jekyll-materialize-starter-template
+[3]: https://opensource.org/licenses/MIT
+[4]: http://materializecss.com/
