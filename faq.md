@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: FAQ
+full_title: Frequently Asked Questions
 permalink: /faq/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title">{{ page.full_title | escape }}</h1>
 
 <div class="section">
     <h5>Why 60% is the travel reimbursement value?</h5> 
