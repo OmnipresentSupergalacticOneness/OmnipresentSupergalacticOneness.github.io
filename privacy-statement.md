@@ -87,7 +87,7 @@ permalink: /privacy/
 <div class="divider"></div>
 
 <div class="section">
-    <h5>Contact Deal-O-Round</h5> 
+    <h5>Contact Csaba Technology Services, LLC</h5> 
 
     <div class="row">
         <div class="col s12">
