@@ -12,7 +12,7 @@ permalink: /faq/
 
     <div class="row">
         <div class="col s12">
-            Google takes off 30% right away of the In-App purchase value. 10% covers transactional fees and operating costs.
+            Google front off-loads 30% right away of the In-App purchase value, and PayPal takes an additional 3%. 7% covers operational costs, and this is how it adds up to 100%.
         </div>
     </div>
 </div>
@@ -24,7 +24,7 @@ permalink: /faq/
 
     <div class="row">
         <div class="col s12">
-            There are a few hours while the In-App purchase can be reversed. Therefore we'll wait, and proceed only after we made sure that the first step was legitimate. Check your mailbox to see the confirmation email about the transaction. If you see that, you can be sure that you didn't mistype your PayPal verified email.
+            There are a few hours while the In-App purchase can be reversed. Therefore we'll wait, and proceed only after we made sure that the first step was legitimate. Check your mailbox to see the confirmation email about the transaction. If you see that, you can be sure that soon the funds will pop up on your PayPal account (given that the email is correct).
         </div>
     </div>
 </div>
