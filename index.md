@@ -2,4 +2,4 @@
 layout: home
 ---
 
-An application to help you with your spiritual journey.
+An application to help with Csaba's spiritual journey.

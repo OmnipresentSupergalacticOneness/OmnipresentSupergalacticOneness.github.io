@@ -10,10 +10,9 @@ permalink: /privacy/
     <div class="row">
         <div class="col s12">
             Your privacy is important to Omnipresent Supergalactic Oneness and it's creator:
-            Csaba Technology Services, LLC. This privacy statement provides information about
-            the personal information that Csaba Technology Services, LLC collects, and the
-            ways in which Csaba Technology Services, LLC or related services use that
-            personal information.
+            Csaba Toth. This privacy statement provides information about
+            the personal information that the application/creator collects, and the
+            ways in which the related services use that personal information.
         </div>
     </div>
 </div>
@@ -25,23 +24,7 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            Csaba Technology Services, LLC collect and use the following personal information:
-            PayPal email entered, Transaction value, Transaction time,
-            Identifier link to both the App Store transaction and the PayPal transaction
-        </div>
-    </div>
-</div>
-
-<div class="divider"></div>
-
-<div class="section">
-    <h5>Using personal information</h5> 
-
-    <div class="row">
-        <div class="col s12">
-            Csaba Technology Services, LLC use your personal information to execute the obligated transactions
-            and provide information in case of any dispute. The companies essential for completing the transaction
-            receive the required information.
+            The application does not collect any personal information.
         </div>
     </div>
 </div>
@@ -53,8 +36,7 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            Csaba Technology Services, LLC stores all the information related to the transaction using cloud services.
-            In these cases the cloud provider's data security and privacy policies apply as well.
+            The application uses standard methods and APIs to perform in-app purchase. The best practices apply and the data is handled by the cloud provider (Google).
         </div>
     </div>
 </div>
@@ -66,7 +48,7 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            Csaba Technology Services, LLC is accessible in limited countries (USA and Canada). In some cases the information travels from the mobile app to the cloud provider's servers. The information is communicated through secure channels.
+            Omnipresent Supergalactic Oneness is accessible in limited countries. In some cases the information travels from the mobile app to the cloud provider's servers. The information is communicated through secure channels.
         </div>
     </div>
 </div>
@@ -78,7 +60,7 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            Csaba Technology Services, LLC may update this privacy policy by posting a new version on this website.
+            The creator may update this privacy policy by posting a new version on this website.
             You should check this page occasionally to ensure you are familiar with any changes.
         </div>
     </div>
@@ -87,12 +69,12 @@ permalink: /privacy/
 <div class="divider"></div>
 
 <div class="section">
-    <h5>Contact Csaba Technology Services, LLC</h5> 
+    <h5>Contact Csaba Technology</h5> 
 
     <div class="row">
         <div class="col s12">
-             If you have any questions about this privacy policy or Csaba Technology Services, LLC's treatment of your personal
-             information, please contact through <a href="https://www.linkedin.com/in/csabatothdev/">LinkedIn</a>
+             If you have any questions about this privacy policy or Omnipresent Supergalactic Oneness's treatment of your personal
+             information, please contact through <a href="https://csabatechnology.github.io/">Author's website</a>
         </div>
     </div>
 </div>
@@ -105,7 +87,7 @@ permalink: /privacy/
     <div class="row">
         <div class="col s12">
             This document was created using a Contractology template available at <a href="http://www.freenetlaw.com/">http://www.freenetlaw.com</a>.
-            Csaba Technology Services, LLC customized that template to reflect the particular application instead of a website,
+            Csaba Technology customized that template to reflect the particular application instead of a website,
             and transformed it into HTML5/markdown format. The modified source is available on 
             <a href="https://github.com/OmnipresentSupergalacticOneness/OmnipresentSupergalacticOneness.github.io/blob/master/privacy-statement.md">GitHub</a>
         </div>
