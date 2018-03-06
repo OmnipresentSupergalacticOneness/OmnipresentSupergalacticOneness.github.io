@@ -2,4 +2,4 @@
 layout: home
 ---
 
-An application to help with Csaba's spiritual journey.
+An application based on TrivialGame sample.
