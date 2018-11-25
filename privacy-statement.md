@@ -69,12 +69,12 @@ permalink: /privacy/
 <div class="divider"></div>
 
 <div class="section">
-    <h5>Contact Csaba Technology</h5> 
+    <h5>Contact Csaba Consulting</h5> 
 
     <div class="row">
         <div class="col s12">
              If you have any questions about this privacy policy or Omnipresent Supergalactic Oneness's treatment of your personal
-             information, please contact through <a href="https://csabatechnology.github.io/">Author's website</a>
+             information, please contact through <a href="https://csabaconsulting.github.io/">Author's website</a>
         </div>
     </div>
 </div>
@@ -87,7 +87,7 @@ permalink: /privacy/
     <div class="row">
         <div class="col s12">
             This document was created using a Contractology template available at <a href="http://www.freenetlaw.com/">http://www.freenetlaw.com</a>.
-            Csaba Technology customized that template to reflect the particular application instead of a website,
+            Csaba Consulting customized that template to reflect the particular application instead of a website,
             and transformed it into HTML5/markdown format. The modified source is available on 
             <a href="https://github.com/OmnipresentSupergalacticOneness/OmnipresentSupergalacticOneness.github.io/blob/master/privacy-statement.md">GitHub</a>
         </div>
