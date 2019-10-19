@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Statement
+title: Privacy Policy
 permalink: /privacy/
 ---
 
@@ -10,8 +10,8 @@ permalink: /privacy/
     <div class="row">
         <div class="col s12">
             Your privacy is important to Omnipresent Supergalactic Oneness and it's creator:
-            Csaba Toth. This privacy statement provides information about
-            the personal information that the application/creator collects, and the
+            Csaba Toth. This privacy policy provides information about
+            the personal information the application may collect or pass along, and the
             ways in which the related services use that personal information.
         </div>
     </div>
@@ -24,7 +24,10 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            The application does not collect any personal information.
+            The application does not collect any personal information on it's own, Android back-end stores information about any donations
+            within its own back-end necessary to perform the transaction. The creator has limited access to some fo these information.
+            During the in-app purchase process Android System's standard isolated parts communicate with Google's back-end directly. In-App
+            purchase process is secured in several ways to protect the end-user from any tampering or malicious interception of payment information.
         </div>
     </div>
 </div>
@@ -36,7 +39,7 @@ permalink: /privacy/
 
     <div class="row">
         <div class="col s12">
-            The application uses standard methods and APIs to perform in-app purchase. The best practices apply and the data is handled by the cloud provider (Google).
+            The application uses standard methods and APIs to perform in-app purchase. The best practices apply and the data is handled by Google's back-end.
         </div>
     </div>
 </div>
@@ -56,12 +59,12 @@ permalink: /privacy/
 <div class="divider"></div>
 
 <div class="section">
-    <h5>Updating this statement</h5> 
+    <h5>Updating this policy</h5> 
 
     <div class="row">
         <div class="col s12">
             The creator may update this privacy policy by posting a new version on this website.
-            You should check this page occasionally to ensure you are familiar with any changes.
+            Please check this page occasionally to ensure you are familiar with any changes.
         </div>
     </div>
 </div>
@@ -74,7 +77,7 @@ permalink: /privacy/
     <div class="row">
         <div class="col s12">
              If you have any questions about this privacy policy or Omnipresent Supergalactic Oneness's treatment of your personal
-             information, please contact through <a href="https://csabaconsulting.github.io/">Author's website</a>
+             information, please contact through <a href="https://csaba.page/">Author's website</a>
         </div>
     </div>
 </div>
